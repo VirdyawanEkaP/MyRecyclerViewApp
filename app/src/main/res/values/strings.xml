@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Daftar Mahasiswa</string>
+    <string name="heroes_name">Nama Mahasiswa</string>
+    <string name="detail">Detail</string>
+    <string name="nim">NIM</string>
+    <string name="hp">081XXX</string>
+    <string name="object_received">Oject Diterima</string>
+    <string name="activity_detail">Detail Mahasiswa</string>
+</resources>
